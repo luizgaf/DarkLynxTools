@@ -1,0 +1,6 @@
+basic is compiled with gclib 2.19 on Ubuntu 14.04
+
+ldd (Ubuntu EGLIBC 2.19-0ubuntu6.15) 2.19
+Copyright (C) 2014 Free Software Foundation, Inc.
+
+==================================================
